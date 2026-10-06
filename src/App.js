@@ -1,5 +1,5 @@
 import './App.css';
-import Button
+import Button1 from './components/Button1';
 import Labelalamat from './components/labelalamat';
 import LabelNama from './components/labelnama';
 
