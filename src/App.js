@@ -1,4 +1,5 @@
 import './App.css';
+import Button
 import Labelalamat from './components/labelalamat';
 import LabelNama from './components/labelnama';
 
@@ -11,6 +12,7 @@ function App() {
 
      <LabelNama nama="iwan" />
      <Labelalamat alamat="jalan cahyo" />
+     <Button1/>
 
     </div>
   );
